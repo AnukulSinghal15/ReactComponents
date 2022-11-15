@@ -1,0 +1,19 @@
+Button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 10px 25px;
+    margin: 10px 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+
+  textarea, input{
+    width:90%;
+  }
+
+  #undoButton{
+    background-color: royalblue;
+  }

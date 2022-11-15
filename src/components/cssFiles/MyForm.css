@@ -1,0 +1,45 @@
+.container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width:50%;
+}
+
+.form-group > input{
+    margin-top:5px;
+}
+
+.form-wrapper{
+    border-style: solid;
+    padding: 20px;
+    padding-right:5px;
+}
+
+.form-group{
+    margin:10px;
+    margin-left:0px;
+}
+
+.form-submit{
+    margin:10px;
+    background-color: green;
+    color: black;
+    border-radius: 5px;
+    align-self: center;
+    width: 40%;
+}
+
+.form-submit-disabled{
+    margin:10px;
+    background-color: red;
+    color: black;
+    border-radius: 5px;
+    align-self: center;
+    width: 40%;
+
+}
+
+.Signup-title{
+    margin:10px;
+    margin-left:0px;
+}
